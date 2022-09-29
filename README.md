@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Filipe Lopes
-- 👀 I’m interested in programming 
+- 👀 I’m interested in learn programming 
 - 🌱 I’m currently learning Python
 - 📫 How to reach me filipe123fsl@gmail.com
