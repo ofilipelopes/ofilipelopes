@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Filipe Lopes
+- 👀 I’m interested in programming 
+- 🌱 I’m currently learning Python
+- 📫 How to reach me filipe123fsl@gmail.com
