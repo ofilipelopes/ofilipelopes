@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning Python
 - 📫 How to reach me filipe123fsl@gmail.com
 - ✅ Computer tech
-- 1/4 Analysis and Systems Development
+- ⌛ Analysis and Systems Development
